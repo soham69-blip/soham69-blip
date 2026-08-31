@@ -5,11 +5,14 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:khuranasoham69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.linkedin.com/in/soham-khurana-743109265/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/soham69-blip">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:khuranasoham69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -23,10 +26,11 @@
 * 🤖 Building AI-powered applications using Large Language Models and Machine Learning
 * ☁️ Exploring Cloud Computing and Google Cloud Platform technologies
 * 📱 Developing Android applications using Java, XML, and Firebase
-* 🚀 Experienced in building practical software projects and AI-driven solutions
+* 🌐 Building responsive web applications using HTML, CSS, and JavaScript
+* 🚀 Interested in solving real-world engineering problems through technology
 * 🏢 Software Development Engineer Intern at Airtel India
-* 📈 Chief Operating Officer at MOVZEE, working across product execution, operations, and business strategy
-* 🤝 Interested in hackathons, innovation, startup ecosystems, and solving real-world engineering problems
+* 📈 Chief Operating Officer at MOVZEE
+* 🤝 Passionate about hackathons, innovation, entrepreneurship, and collaborative development
 
 ---
 
@@ -46,7 +50,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge" alt="Data Structures and Algorithms">
-  <img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge" alt="Object Oriented Programming">
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge" alt="OOP">
   <img src="https://img.shields.io/badge/Operating%20Systems-334155?style=for-the-badge" alt="Operating Systems">
   <img src="https://img.shields.io/badge/DBMS-0F766E?style=for-the-badge" alt="DBMS">
   <img src="https://img.shields.io/badge/Computer%20Networks-0369A1?style=for-the-badge" alt="Computer Networks">
@@ -57,18 +61,17 @@
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge" alt="Artificial Intelligence">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/LLMs-22D3EE?style=for-the-badge" alt="Large Language Models">
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-22D3EE?style=for-the-badge" alt="LLMs">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama">
-  <img src="https://img.shields.io/badge/LLM%20Integration-6366F1?style=for-the-badge" alt="LLM Integration">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
 </p>
 
 ### ☁️ Cloud Computing
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform">
-  <img src="https://img.shields.io/badge/Pub%2FSub-A142F4?style=for-the-badge" alt="Google Cloud Pub/Sub">
-  <img src="https://img.shields.io/badge/Dataflow-1A73E8?style=for-the-badge" alt="Google Cloud Dataflow">
+  <img src="https://img.shields.io/badge/Pub%2FSub-A142F4?style=for-the-badge" alt="Pub/Sub">
+  <img src="https://img.shields.io/badge/Dataflow-1A73E8?style=for-the-badge" alt="Dataflow">
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge" alt="BigQuery">
   <img src="https://img.shields.io/badge/Cloud%20Storage-34A853?style=for-the-badge" alt="Cloud Storage">
 </p>
@@ -113,12 +116,12 @@
 
 ### 🏢 Software Development Engineer Intern — Finance Technology
 
-**Airtel India**
+**Airtel India**  
 `May 2026 – July 2026`
 
 * 💻 Developed internal software modules supporting finance operations and business workflows
-* ☕ Implemented backend functionality using Java and Object-Oriented Programming principles
-* 🧠 Applied Data Structures & Algorithms to improve application performance
+* ☕ Implemented backend functionalities using Java and Object-Oriented Programming principles
+* 🧠 Applied Data Structures & Algorithms to optimize application performance
 * 🤝 Collaborated with software engineers, QA teams, and business stakeholders
 * 🐛 Participated in debugging, testing, code reviews, and deployment activities
 * 🔧 Refactored existing modules to improve maintainability and code quality
@@ -127,21 +130,57 @@
 
 ### 🚀 Chief Operating Officer
 
-**MOVZEE**
+**MOVZEE**  
 `July 2026 – Present`
 
-* 📈 Leading business operations, execution strategy, and cross-functional coordination
+* 📈 Leading overall business operations and execution strategy
 * 🧩 Managing product planning, business development, partnerships, and operational growth
 * ⚙️ Designing workflows across engineering, marketing, rider operations, customer support, and merchant onboarding
 * 🚚 Coordinating product execution and launch planning for BBK Cafe Delivery
 * 💻 Working with engineering teams to align technology development with business objectives
 * 📊 Building scalable operational processes for rider onboarding, customer support, and partner management
 * 🎯 Driving campus expansion, recruitment, strategic collaborations, and growth initiatives
-* 🌐 Supporting the long-term development of MOVZEE's logistics technology platform
+* 🌐 Supporting the development and expansion of MOVZEE's logistics technology platform
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🛡️ TrustLoop — Autonomous Return Triage
+
+An AI-powered autonomous return triage system designed to analyze e-commerce return cases and assist with intelligent decision-making.
+
+TrustLoop combines **Machine Learning, Retrieval-Augmented Generation, policy analysis, computer vision, explainable AI, and workflow automation** to analyze return cases and determine whether they should be approved, rejected, or escalated for human review.
+
+**Core Technologies:**
+
+`Python` `FastAPI` `Machine Learning` `RAG` `FAISS` `BM25` `LangGraph` `SHAP` `Computer Vision` `LLMs`
+
+**Key Capabilities:**
+
+* 🤖 Autonomous return triage
+* 📊 ML-based risk scoring
+* 🧠 Policy-aware AI reasoning
+* 📚 Retrieval-Augmented Generation
+* 👁️ Vision-based verification
+* 🔎 Hybrid information retrieval
+* 📈 Explainable AI using SHAP
+* 👤 Human-review recommendations
+* ⚙️ Automated decision workflows
+* 📝 Case-level analysis and audit information
+
+**Decision Flow:**
+
+`AUTO_APPROVE` → `MANUAL_REVIEW` → `AUTO_REJECT`
+
+🔗 **[View TrustLoop →](https://github.com/soham69-blip/trustloop-autonomous-return-triage)**
+
+**Collaborators:**
+
+* 👤 [Keshuuu800](https://github.com/keshuuu800)
+* 👤 [Soham69-blip](https://github.com/soham69-blip)
+
+---
 
 ### 🏥 Nursing Handoff System using LLM
 
@@ -152,33 +191,35 @@ An AI-powered clinical handoff system developed during **Microsoft Learn Student
 * 🤖 Built an AI-powered clinical handoff system during a 24-hour national hackathon
 * 🧠 Automated patient shift summaries using Large Language Models
 * 🔄 Developed an end-to-end workflow from patient data ingestion to structured report generation
-* 📋 Reduced manual documentation effort and improved communication efficiency
+* 📋 Reduced manual documentation effort
+* 🏥 Focused on improving communication during patient handoffs
 
 ---
 
 ### 🤖 FRIDAY — AI Voice Assistant
 
-A JARVIS-inspired AI voice assistant built around locally hosted Large Language Models.
+A JARVIS-inspired AI voice assistant built using locally hosted Large Language Models.
 
 **Tech Stack:** `Python` `Ollama` `CustomTkinter` `LLM Integration`
 
-* 🎙️ Developed an AI voice assistant using locally hosted LLMs
+* 🎙️ Developed an AI voice assistant using locally hosted Large Language Models
 * 🌐 Integrated voice commands, browser automation, and real-time internet search
-* 🖥️ Designed an animated futuristic desktop interface
+* 🖥️ Designed an animated futuristic user interface
 * 🧠 Implemented context-aware conversational AI
-* ⚡ Combined local AI inference with practical desktop automation
+* ⚡ Combined local LLM inference with practical desktop automation
 
 ---
 
 ### 🎵 Spotify & Twitter (X) Clone
 
-A frontend development project recreating core experiences of Spotify and Twitter (X).
+Frontend projects recreating core experiences of Spotify and Twitter (X).
 
 **Tech Stack:** `HTML5` `CSS3` `JavaScript`
 
-* 🎵 Developed a responsive Spotify clone with playlists and music-player functionality
-* 🐦 Developed a Twitter (X) clone with tweet feeds and profile pages
-* 🔍 Implemented search functionality and responsive navigation
+* 🎵 Developed responsive Spotify and Twitter (X) clones
+* 🎧 Implemented playlists and music-player functionality
+* 🐦 Built tweet feeds and profile pages
+* 🔍 Added search functionality and responsive navigation
 * 🧩 Built reusable UI components
 * 📱 Optimized layouts for desktop, tablet, and mobile devices
 
@@ -193,11 +234,11 @@ A frontend development project recreating core experiences of Spotify and Twitte
 
 ---
 
-## 🎯 Leadership & Activities
+## 🎯 Leadership Experience
 
 ### 🎓 Campus Ambassador — BECon'26
 
-**Entrepreneurship Development Cell (eDC), IIT Delhi**
+**Entrepreneurship Development Cell (eDC), IIT Delhi**  
 `December 2025 – February 2026`
 
 * 🏆 Ranked among the top-performing Campus Ambassadors
@@ -226,16 +267,32 @@ A frontend development project recreating core experiences of Spotify and Twitte
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham69-blip/soham69-blip/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham69-blip/soham69-blip/output/github-snake.svg">
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/soham69-blip/soham69-blip/output/github-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="mailto:khuranasoham69@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="https://www.linkedin.com/in/soham-khurana-743109265/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/soham69-blip">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:khuranasoham69@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
