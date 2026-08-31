@@ -226,18 +226,6 @@ A frontend development project recreating core experiences of Spotify and Twitte
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham69-blip/soham69-blip/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham69-blip/soham69-blip/output/github-snake.svg">
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/soham69-blip/soham69-blip/output/github-snake.svg">
-  </picture>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
